@@ -33,4 +33,4 @@
 6. 以太坊黄皮书中文连载：[http://ethfans.org/jordengao/articles](http://ethfans.org/jordengao/articles "以太坊黄皮书中文连载")
 
 ## 欢迎讨论 ##
-QQ讨论群：483931081（区块链应用开发）
+QQ讨论群：391147557（区块链应用开发）
